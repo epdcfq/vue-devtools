@@ -15,7 +15,7 @@ vue调试工具vue-devtools安装及使用
 	vue项目, 打开f12, 选择vue就可以使用了.
 	vue是数据驱动的, 这样就能看到对应数据了, 方便我们进行调试
 # 7. npm 报错This is probably not a problem with npm. There is likely additional logging output above.
-     	rm -rf node_modules
+	rm -rf node_modules
 	rm package-lock.json
 	npm cache clear --force
 	npm install
